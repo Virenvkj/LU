@@ -1,0 +1,5 @@
+1. Blockchain in an upcoming ledger which stores all the transactions permanently in an immutable and unchangeable way in decantralized format. Blockchain is a revolutionary concept which is surely going to be a necessity in future as we are creating tons of data and we all need that data to be utmost safe and secure.
+2. Blockchain is trying to solve the following problems. A. Security B. Authenticity C. Data Integrity D. Centralization E. Data Transparency F. Data Loss
+3. Blockchain will give us immense data security and integrity. Prevents each and every kind of cyber attacks.
+4. A block contains Block Number, Mining key, Hash of previous block and New data.
+5. The verifiability can be attained as we are using the concept of Distributed database. So we can compare our hash keys with hash keys of other systems to verify the integrity of data.
